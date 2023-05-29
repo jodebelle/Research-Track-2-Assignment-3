@@ -10,7 +10,9 @@ Times recorded from my implementation and my colleague's
  
 Mean and standard deviation from my implementation and my colleague's
 
-Bar plot comparing the times of my implementation and my colleague's
+Bar plot comparing the times of my implementation and my colleague's:
+![image](https://github.com/jodebelle/Research-Track-2-Assignment-3/assets/114078097/d814cdb4-c21c-47c7-b646-b55106370706)
+
 
 Shapiro Wilk test used to determine whether the data is normally distributed or not.
 The null hypothesis H0 states that my code performs better than my colleague's code, the robot assembles all the tokens faster.
