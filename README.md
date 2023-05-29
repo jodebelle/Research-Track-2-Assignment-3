@@ -3,7 +3,7 @@
 
 This jupyter notebook was made in order to compare the efficiency of my code with my colleague's code of the first assignment in RT1. 
 In order to do that, statistical analysis were carried out to test which implementation performed better.
-About 25 readings were made but only 17 were comoplete and thus used for this analysis.
+About 25 readings were made but only 17 were complete and therefore used for this analysis.
    
  ---------------------------------------------------------- 
 ## Times recorded from my implementation and my colleague's
