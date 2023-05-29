@@ -8,8 +8,17 @@ About 25 readings were made but only 17 were comoplete and thus used for this an
  ---------------------------------------------------------- 
 ## Times recorded from my implementation and my colleague's
  
+my_time = np.array([114, 113.52, 109.09, 107.62, 104.53, 107.37, 117.28, 133.79, 106.5, 109.02, 108.88, 98.80, 100.96, 107.14, 118.58, 110.55, 114.66])
+time_colleague = np.array([93.91, 95.97, 96.6, 98.15, 92.3, 113.47, 98.78, 115.12, 98.15, 92.16, 93.05, 92.38, 98.59, 92.47, 113.28, 98.5
+
 --------------------------------------------------------------------- 
 ## Mean and standard deviation from my implementation and my colleague's
+
+my_mean = np.mean(my_time)
+colleague_mean = np.mean(time_colleague)
+
+my_std = np.std(my_time)
+colleague_std = np.std(time_colleague)
 
 --------------------------------------------------------------------
 ## Bar plot comparing the times of my implementation and my colleague's:
